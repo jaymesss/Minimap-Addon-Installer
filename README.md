@@ -9,4 +9,4 @@
  5. Click "more details" then "trust this publisher"
  6. Tada! You can now hop online and roleplay
 
- If you would ever like to uninstall the mod, just run the program again
+  If you would ever like to uninstall the mod, just run the program again
