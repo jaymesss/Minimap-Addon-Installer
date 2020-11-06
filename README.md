@@ -1,5 +1,7 @@
 # Minimap Addon Installer
- Minimap installer used for Outlaw Life RP's Liberty City + San Andreas map. This project is not a showcase of my work, but to show integrity to Outlaw Life's players.
+ Minimap installer used for Outlaw Life RP's Liberty City + San Andreas map. 
+
+ NOTE: This project is not a showcase of my work, but to show integrity to Outlaw Life's players.
 
 # Installation Tutorial
  1. Close out of FiveM
